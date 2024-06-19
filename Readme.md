@@ -1,2 +1,1 @@
-MODDING GUIDE:
-https://github.com/Albiot1/PVZ-Heroes-Modding-Page/wiki
+[MODDING GUIDE](https://github.com/10buttonmushrooms/PVZH-Modding-Wiki/wiki/1.-Home)
